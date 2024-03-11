@@ -1,7 +1,6 @@
 class A {
     int a[] = new int[2];
-    
-    void show()
+     void show()
      {
         a[0] = 10;
         a[1] = 20;
