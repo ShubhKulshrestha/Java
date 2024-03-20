@@ -1,4 +1,5 @@
-import package java.util.Scanner;
+
+import package java.util.Scanner; // // also use java .util.*;
   class input{
   public static void main ( String args[]){
     int a;
