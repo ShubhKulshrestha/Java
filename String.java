@@ -1,7 +1,8 @@
-public class string{
+public class String{
   public static void main(String args[]){
     String a ="java";
-    a.concat("programming");
+    String b = a.concat("programming");
     System.out.println(a);
+    System.out.println(b);
   }
 }
